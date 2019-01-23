@@ -1,0 +1,4 @@
+#Wed Jan 23 12:42:05 PST 2019
+base.0=C\:\\Dropbox\\Development\\Android_Studio\\Work\\Projects\\Lotto64fun\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

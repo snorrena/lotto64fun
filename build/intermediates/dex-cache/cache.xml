@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Dropbox\Development\Android_Studio\Work\Projects\Lotto64fun\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="00ea71ae534d95e88094c3f9e2ef2c1d16a01c7c">
+        <dex dex="C:\Dropbox\Development\Android_Studio\Work\Projects\Lotto64fun\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d350439cad1053b6339ce0fc967fc2ef0a8c87d9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Dropbox\Development\Android_Studio\Work\Projects\Lotto64fun\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Dropbox\Development\Android_Studio\Work\Projects\Lotto64fun\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4b03288d19ca96430144cafc72fea3135639fd33\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Dropbox\Development\Android_Studio\Work\Projects\Lotto64fun\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="138a66b782577938ab9732cb7ac630fb738846a1">
+        <dex dex="C:\Dropbox\Development\Android_Studio\Work\Projects\Lotto64fun\app\build\intermediates\pre-dexed\release\classes_f153073ee948dcd50e0fdd91fb993e4be33af015.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Admin\.android\build-cache\403bfe8372cebf0868dd5e3e7a68db7dceaa445b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a510df52da6402338b2debf32e637277de18c293">
+        <dex dex="C:\Dropbox\Development\Android_Studio\Work\Projects\Lotto64fun\app\build\intermediates\pre-dexed\release\classes_adb4ebe933ae64d5d7fbf23dbdd5c100c534bb74.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\build-cache\403bfe8372cebf0868dd5e3e7a68db7dceaa445b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a510df52da6402338b2debf32e637277de18c293">
+        <dex dex="C:\Dropbox\Development\Android_Studio\Work\Projects\Lotto64fun\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_adb4ebe933ae64d5d7fbf23dbdd5c100c534bb74\classes.dex" />
+    </item>
+
+</items>
